@@ -1,0 +1,575 @@
+¿PUEDE LA INTERVENCIÓN ESTATAL
+SER JUSTIFICADA CIENTÍFICAMENTE?
+UNA CRÍTICA
+MIGUEL ANXO BASTOS BOUBETA*
+Resumen: El objeto de este artículo es tratar de demostrar que las jus-
+tificaciones de la necesidad del Estado basadas en la ciencia económicano pueden ser sostenidas. Ni las externalidades ni los fallos del mer-cado son suficientes para justificar la intervención estatal. Ésta ten-drá que recurrir a argumentos extraeconómicos basados en la tradi-ción, el miedo o la historia para justificarse, pero no a la ciencia
+económica.
+Palabras clave: Intervencionismo, externalidades, fallos del mercado,
+economía austriaca, origen del Estado.
+Abstract: The intention of this paper is to demonstrate that the need
+of the state justifications based on economic reasons cannot be sus-tained. Neither externalities, nor market failures are sufficient to justi-fy government’s intervention. Interventionism must be justified by fear,tradition or history, but never by the economic science.
+Key words: Interventionism, externalities, market failures, Austrian
+economics, origin of the State.
+Clasificación JEL: E61, E62, E63.
+* Fac. de Ciencias Políticas e Sociais, Campus Sur, Universidade de Santiago
+de Compostela (A Coruña).
+Procesos de Mercado: Revista Europea de Economía Política
+Vol. II, n.º 1, Primavera 2005, pp. 11 a 51«La teoría social elemental muestra, en contra de la opinión
+dominante en estos asuntos, que ningún Estado tiene justificacióneconómica o ética. Todo Estado, independientemente de su consti-tución, es económica y éticamente deficiente ».
+(H
+ANS-HERMANN HOPPE )
+I. INTRODUCCIÓN
+El lector que afronte la lectura de cualquier manual o libro
+sobre análisis de políticas públicas se encuentra, en la prácti-ca totalidad de los casos, con que la oportunidad de la inter-vención estatal reguladora, incentivadora o sancionadora en lavida social y económica se da por supuesta sin ser jamás obje-to de discusión. Ya hablemos de políticas laborales, medioam-bientales, de género o de normalización lingüística, el comúnde los analistas de políticas no sólo no se molesta en discutirla necesidad de la actuación imperativa del Estado, nunca cues-tionada, sino que cuando hace recomendaciones o propuestasde política, en la inmensa mayoría de las ocasiones, reclama unaintervención estatal aún mayor
+1. Dos razones podrían explicar12 MIGUEL ANXO BASTOS BOUBETA
+1En este artículo vamos a referirnos de forma indistinta a todas las políticas
+públicas, no considerando pertinente distinguir entre políticas económicas o noeconómicas por dos razones. Primero, porque toda política pública, sea o no eco-nómica, implica siempre cierto grado de coerción sobre el uso legítimo de algúnderecho de propiedad (esto es siempre que no se agreda los derechos legítimos deotra persona). Esta coerción puede ser directa, sobre el derecho al disfrute de lapropiedad de nuestro propio cuerpo (servicio militar, prohibición de determina-das conductas, consumos u oficios...) o de nuestros bienes legítimamente adqui-ridos (controles de precios, restricciones al comercio de determinados bienes...), oindirecta, a través de la requisa forzosa del fruto de nuestra actividad o de nues-tros bienes a través de impuestos para financiar las actividades estatales. En segun-do lugar, y relacionado con lo anterior, porque toda intervención estatal alteracoercitivamente la estructura de preferencias de los actores y, por tanto, altera laestructura de precios relativos que se produciría en ausencia de coerción y, por ello,tiene implicaciones económicas más allá del objetivo procurado (el servicio mili-tar altera el mercado de trabajo; la prohibición de la droga eleva su precio, gene-ra rentas de escasez a favor de sus vendedores y puede llegar a distorsionar la estruc-esta predisposición a la intervención entre los practicantes del
+análisis de políticas. La primera se derivaría de la existencia deuncorpus teórico elaborado que justifica y legitima las políti-
+cas de intervención estatal al dotarlas de un aura de cientifici-
+dad
+2(al que nos referiremos en este artículo). La segunda se
+derivaría de la propia naturaleza de estos estudios. El origeny la evolución de los estudios de políticas públicas están estre-chamente ligados al gobernante. Bien como sancionador, biencomo legitimador de sus actuaciones, siempre a lo largo de lahistoria ha estado a sueldo del gobierno. El apogeo reciente detales estudios se debe, según sus historiadores
+3(Goldhamer,
+1978), a la conjunción de una creciente demanda de análisispolítico derivada del espectacular incremento en tamaño y fun-ciones del Estado desde los 60 hasta nuestros días, con la pro-liferación de técnicas de análisis sofisticadas elaboradas porlos planificadores sociales y con una mentalidad tecnocráticay racional-constructivista que otorga a gobernantes y planifi-cadores la legitimidad para diseñar los procesos sociales. Así,los políticos demandan análisis y argumentos en la elaboracióny justificación de sus decisiones de política, ya de forma pre-
+via a la toma de decisiones, para mejorar la calidad de las mis-¿PUEDE LA INTERVENCIÓN ESTATAL SER JUSTIFICADA...? 13
+tura de naciones enteras; los controles de precios generan escasez; el incremento
+del gasto público puede producir inflación y alterar artificialmente la estructurade precios...). Por tanto, no es fácil distinguir entre política económica y no eco-nómica. Más bien podemos decir que toda política pública es política económica en
+el sentido de que tiene algún tipo de incidencia en la vida económica y que todapolítica económica es política en sentido general, pues altera la estructura de pre-ferencias, y por tanto el comportamiento de los ciudadanos a través del uso de lacoerción estatal sin la cual no podría ser llevada a cabo.
+2Una introducción a esta temática desde una perspectiva austriaca puede
+encontrarse en Robert Formaini (Formaini, 1990).
+3En este libro, Goldhamer historia la figura del analista de políticas y subra-
+ya la continuidad histórica entre brujos y hechiceros, justificando su labor en lainterpretación de libros y fórmulas mágicas, no accesibles por su retorcido lenguajeal mortal común, y los modernos expertos económicos, que harían más o menoslo mismo. Sobre el origen de las modernas disciplinas de análisis de políticas, vertambién Torgeson (1999), Boix (1991) y Garzón (1992).mas, ya a posteriori (procedimiento este último que acostumbra
+a ser el más frecuente), para justificar y legitimar públicamen-te las decisiones previamente adoptadas.
+La venalidad del análisis de políticas a la clase gobernante,
+junto con el no cuestionamiento de la legitimidad de la inter-
+vención política y la interesada defensa de la necesidad de nue-vas intervenciones, explican la popularidad del análisis de polí-ticas públicas entre la susodicha clase
+4. Pero que una disciplina
+sea venal e interesada no implica que se deba cuestionar lavalidez de sus argumentos. En efecto, que un argumento seaformulado por razones nobles o espurias no altera la validezlógica de sus postulados, sólo explica la ausencia de críticas alos mismos o el ocultamiento en la exposición de razonamien-tos críticos. Este artículo tratará de esbozar las principales crí-ticas realizadas a los argumentos favorables a la existencia depolíticas públicas, tanto en su aspecto cataláctico como ético-filosófico; y siempre teniendo en cuenta que en el mundo delanálisis de políticas públicas, como de la ciencia política engeneral, no existe (por las razones antes apuntadas y tambiénprobablemente por desconocimiento) oposición teórica a laexistencia de aquello que justifica nuestro oficio de analistasde políticas. Si el deseo manifiesto de Keynes (Keynes, 1988)era asimilar el papel del economista con el de un dentista que,gracias a sus herramientas y a sus saberes, resuelve de formaexpeditiva los problemas que le encomiendan, el mío es que elpapel del analista de políticas llegue a ser algún día el de unespecialista en patologías que trabaja para descubrir bacilos yvirus y desarrollar vacunas que los prevengan y combatan, yesto aun a sabiendas de que, de darse su triunfo final, podríaquedar sin ocupación.14 MIGUEL ANXO BASTOS BOUBETA
+4Es interesante recordar aquí que buena parte de los teóricos austriacos com-
+parten la visión, expresada ya hace tiempo por Calhoun (1851) y Oppenheimer(1926), de una sociedad dividida entre una clase explotadora minoritaria, benefi-ciaria de la coerción estatal, y una explotada, que padece tal coerción. Es un aná-II. LA NECESIDAD DE JUSTIFICAR 
+LA ACTIVIDAD GUBERNAMENTAL: 
+ARGUMENTOS A FAVOR DE LA INTERVENCIÓN
+La intervención coercitiva en la vida económica y social es indi-
+soluble de la existencia del Estado5. Éste, independientemen-
+te de la visión más o menos benévola que tengamos de las razo-nes que motivaron su existencia, nunca se limitó, salvo rarasexcepciones, a la labor de mantener el orden, la justicia y el res-peto por los derechos de propiedad, sino que siempre manifestóuna especial predilección por intervenir y regular la vida de susciudadanos y, muy especialmente, los aspectos relativos a la vidaeconómica y comercial, porque es ahí donde se encuentran losmedios necesarios para su sostenimiento y porque el control dela vida económica implica el control de una de las principalesfuentes del poder social
+6. Lo que se pretende decir es que la inter-
+vención nace con el Estado y que las formas que ésta adoptaevolucionan a la par que éste. Los impuestos, la manipulaciónde la moneda y el crédito, las regulaciones del comercio y losprecios, así como las ideas que buscan su justificación, existendesde que existen los gobiernos. Si rebuscamos en los tratadosantiguos del arte de gobernar (espejos de príncipes, arbitrios...)nos encontramos con muy pocas diferencias respecto de hoy endía en lo que se refiere a las medidas intervencionistas adop-¿PUEDE LA INTERVENCIÓN ESTATAL SER JUSTIFICADA...? 15
+lisis similar al marxista, sólo que la explotación no se deriva de la posesión de medios
+de producción, sino de la posesión de los medios de coerción estatales. Ver tam-bién al respecto Hoppe (1990). 
+5Cuando hablo del Estado me refiero, por supuesto, a las personas que lo diri-
+gen. El Estado como tal no existe, son personas organizadas y jerarquizadas, vin-culadas por relaciones jurídicas y de poder, que operan sobre un territorio mono-polizando el uso de la fuerza.
+6Esto no implica que todos los gobiernos hayan intervenido con la misma inten-
+sidad a lo largo de la historia. El grado de desregulación de la vida económica duran-te el siglo XX, tanto en las repúblicas socialistas como en las modernas democra-cias, no tiene parangón en la historia. Sobre la diferencia de la intervención entremonarquías y regímenes democráticos, ver Hoppe (2001).tadas por los gobernantes. La diferencia fundamental reside en
+que estas medidas se justificaban, bien para el sostenimientoy engrandecimiento del reino, bien por oscuras, oportunistasy nunca desveladas razones de Estado, y se transmitían de for-ma tácita entre los involucrados en las tareas de gobierno sinllegar a formularse nunca una justificación «científica» de sunecesidad. El gobernante actual, por su parte, actúa con lasmismas motivaciones e intereses que los anteriores, sólo que,por una parte, su campo de intervención es mucho mayor, tan-to en la cantidad de ámbitos que están bajo su jurisdiccióncomo en su capacidad real de incidir efectivamente en ellos, y,por otra, como consecuencia de lo anterior, la legitimidad desu actuación ya no se busca en la tradición o en la voluntadpopular, sino en la complejidad técnica de la gestión de losnegocios públicos actuales, estando, por tanto, los gobernan-tes legitimados ahora en buena medida por su capacidad de ges-tión técnica de los negocios públicos. La principal consecuen-cia de esta legitimación técnica de la actuación política es quelas viejas justificaciones tradicionales o morales de la actividadestatal ya no son pertinentes, haciéndose necesario para losmodernos administradores públicos proceder a desarrollar jus-tificaciones teóricas adecuadas a las nuevas formas de legiti-midad.
+La ciencia económica actual (al menos en los paradigmas
+dominantes keynesianos y neoclásicos)
+7, una vez que preten-
+de también legitimarse como «científica» imitando los métodosde las ciencias naturales, y en especial la física
+8, constituye la16 MIGUEL ANXO BASTOS BOUBETA
+7Sobre las similitudes entre la obra de Friedman y el keynesianismo, se pue-
+de consultar Rothbard (2002), Huerta de Soto (2000), Biddle y Samuels (2002) y Aran-zadi del Cerro (1999).
+8En efecto, la economía imita a la física en sus métodos y en sus pretensiones
+de obtener el mejor rendimiento posible de un sistema. Ambos coinciden en suspretensiones de optimizar recursos y en la idea de que puede descubrirse unasolución óptima a un determinado problema. Los economistas denominan a estasolución óptima «equilibrio» y orientan todas sus ecuaciones y funciones mate-compañera ideal del moderno gobierno tecnocrático9. Los eco-
+nomistas «oficiales» keynesianos y neoclásicos, al aliarse conel gobierno, ganarían reconocimiento como expertos, consi-guiendo influencia en la elaboración de políticas y puestos enel gobierno
+10; a cambio, ellos legitimarían científicamente la
+intervención estatal permitiendo a los actores estatales incre-mentar el ámbito y alcance de su poder y su capacidad deinfluencia. Veamos ahora cuáles son los principales argumen-tos que se han desarrollado para tratar de justificar la inter-vención pública.
+1. Argumentos de orden cataláctico
+Tratan de justificar la intervención basándose principalmente
+en los fallos e imperfecciones del mercado con respecto a unasuerte de modelo ideal del mismo caracterizado por una situa-ción de equilibrio, de información y competencia perfecta, unmundo ideal de pequeñas empresas y granjas compitiendoentre sí en igualdad de condiciones, regidas todas por el impe-rativo de la eficiencia
+11. Como el mundo real no se amolda a
+estas condiciones, los teóricos de los fallos del mercado acha-can al mercado una serie de disfunciones que un gobierno bue-no y bien intencionado se encargará de corregir por el bien del¿PUEDE LA INTERVENCIÓN ESTATAL SER JUSTIFICADA...? 17
+máticas hacia ese ideal. El problema es que la economía es una ciencia de la acción
+humana, mientras que la física trata con objetos desprovistos de voluntad (Mirows-ki, 1989; Huerta de Soto, 2004; Hayek, 2003).
+9La necesidad cada vez mayor de justificar en conocimientos científicos la
+legitimidad del ejercicio del poder puede verse en Gouldner (1985).
+10El fenómeno del aumento del poder tecno-burocrático puede observarse en
+el incremento de los requisitos de conocimiento para el acceso a numerosos car-gos antes políticos (en la Administración española, por ejemplo, se requieren cadavez en mayor medida títulos universitarios para el acceso a altos cargos) o inclu-so en la reserva para determinados cuerpos de especialistas de los altos cargos esta-tales (Peters, 1999).
+11Una crítica al principio de la eficiencia como principio justificador de la inter-
+vención puede verse en Rothbard (1979).propio mercado. Varias son las concreciones de esta argumen-
+tación.
+Destaca, en primer lugar, la teoría de los bienes públicos, al
+menos tal como es formulada por Samuelson12(Samuelson,
+1954, 1955). Según esta teoría, existirán una serie de bienes,denominados «bienes públicos», dotados de dos características:su consumo conjunto, esto es, que su consumo por un indivi-duo no excluye el consumo de otros, al mismo tiempo que elconsumo de un individuo adicional no afecta al coste de pro-ducción del servicio, y la no exclusión, esto es, la imposibili-dad de excluir a nadie de su disfrute. Bienes como la defensa,el alumbrado eléctrico o los faros serían ejemplos de este tipode bienes. Según Samuelson, estos bienes sería infraproduci-dos o no producidos en absoluto, ya que nadie querría pagar-los al poder tener acceso a ellos gratuitamente una vez produ-cidos, siendo necesaria, por tanto, la intervención estatal coactivaa través de impuestos o prestaciones personales forzosas paraque lleguen a ser producidos. 
+En segundo lugar, podríamos apuntar como justificación de
+la intervención estatal toda la teoría de los fallos del mercado.Como antes apuntamos, los defensores de la intervención par-ten de una visión ideal, estática y eficientista de los procesosde mercado, culpando a fuerzas inherentes al propio mercadode las desviaciones de ese ideal y siendo, por tanto, necesariocorregir coactivamente tales disfunciones. Destacan varios argu-mentos dentro de esta categoría:18 MIGUEL ANXO BASTOS BOUBETA
+12Samuelson popularizó estas ideas gracias a sus enormemente populares
+manuales de economía, que, solos o en colaboración, conformaron las ideas de milesde académicos y estudiantes de ciencias sociales en todo el mundo, dándoles unsesgo estatista a su educación. Así, académicos como Musgrave o Buchanan incor-poraron estos argumentos a sus análisis, dando por sentada la necesidad econó-mica del Estado. Una visión crítica desde la perspectiva austriaca puede encon-trarse en Block (1989, 1993).a)Asimetrías de información
+Partiendo de la idea de que la información en el mercado debe
+ser perfecta, los partidarios de la regulación estatal afirmarán
+que ésta es necesaria para evitar abusos por parte de los acto-res más informados o más expertos, mediante el establecimientode regulaciones de todo tipo (estándares de calidad, licenciasde apertura, controles de precios...) para tratar de igualar lainformación de todos los participantes en el mercado. 
+b)Externalidades
+Son costes o beneficios que las actividades del mercado oca-
+sionan pero que no se repercuten en el precio. Se incide espe-
+cialmente por los partidarios de la intervención estatal en lanecesidad de que los causantes de costes externos, como rui-dos, polución, congestiones de tráfico o daños estéticos, reper-cutan estos costes, bien sobre los consumidores directos, biensobre la sociedad en su conjunto, siendo los poderes públicoslos encargados de garantizar el resarcimiento. Curiosamente,no se propone por parte de los intervencionistas la posturacontraria, esto es, que los productores de externalidades posi-tivas, como construir casas hermosas que mejoren el vecinda-rio, puedan cargar precios a sus beneficiarios.
+c)Monopolios y competencia imperfecta
+Este presunto fallo, en el que se sustenta la inmensa mayoría
+de las políticas de defensa de la competencia, parte de la basede la existencia en un sector determinado de una sola organi-zación empresarial que controlaría la producción de un deter-minado bien o servicio, imponiendo de esta forma condicionesabusivas a los clientes o precios de monopolio claramente explo-tadores del consumidor y de la idea antes reiterada de una¿PUEDE LA INTERVENCIÓN ESTATAL SER JUSTIFICADA...? 19situación ideal de competencia. De aquí se derivan buena par-
+te de las intervenciones en los precios, regulaciones comercia-les (apertura de establecimientos, horarios de apertura...), pro-hibición o incentivo de fusiones empresariales, entre otrasmuchas medidas. De esta forma, el Estado sería el encargadode proteger al mercado y a los ciudadanos de sus propias deci-siones de consumo, interviniendo de forma coercitiva en lasempresas que se aparten de esa situación ideal.
+2. Argumentos de tipo ético-filosófico
+La otra gran fuente de argumentos a favor de la existencia de
+políticas públicas es la ausencia de equidad en los resultadosde los procesos de mercado. Se parte de la idea de que los mer-cados están compuestos por individuos u organizaciones conpoder de negociación y organización muy distintos y esto con-duce a situaciones de desigualdad manifiesta en las condicio-nes económicas de los miembros integrantes de la sociedad, tan-to en el interior de los países como en las relaciones entre ellos.Se reputa esta desigualdad como injusta moralmente y se recla-ma la actuación correctora del Estado para corregir tal injusti-cia social. Este tipo de justificaciones presuponen la posibili-dad de realizar comparaciones interpersonales de utilidad, alestablecerse de forma supuestamente objetiva cuáles son las uti-lidades percibidas por cada individuo en incrementos o decre-mentos en su renta
+13. Medidas de política como los impuestos
+progresivos sobre la renta, restricciones al comercio interna-cional, financiación pública de la sanidad, educación públicaigualadora, ayudas públicas tanto materiales como legales afavor de determinados colectivos percibidos como margina-dos (discriminación positiva) que consumen la mayor parte de20 MIGUEL ANXO BASTOS BOUBETA
+13Un repaso y una crítica a estas justificaciones, englobadas en la llamada eco-
+nomía del bienestar, pueden verse en Rothbard (1956).los presupuestos estatales, son ejemplos de políticas públicas
+inspiradas por motivos éticos o morales. Se trata siempre enestos casos de que el Estado actúe para proteger al débil fren-te al fuerte o al pequeño contra al grande y poderoso. En muchasocasiones, los argumentos expuestos en el apartado a) de esteepígrafe están inspirados, en última instancia, en una visión jus-ta y equitativa de lo que deben ser los procesos de mercado, y,por tanto, la mayoría de los argumentos científicos no dejan deser sino intentos de dar un barniz teórico a valores moralespreviamente existentes.
+III. ANÁLISIS CATALÁCTICO 
+DE LA JUSTIFICACIÓN DE LA INTERVENCIÓN: 
+ANÁLISIS DEL CASO DE LAS POLÍTICAS DE DEFENSA
+DE LA COMPETENCIA
+Los argumentos antes expuestos son aceptados por la mayoría
+de las escuelas económicas dominantes en los medios acadé-micos contemporáneos, si bien con diferencias entre ellas. Loskeynesianos las adoptan como ciertas para justificar de este
+modo sus políticas intervencionistas, lo mismo que los neo-clásicos, que se consideran a sí mismos más liberales porqueen vez de reclamar la intervención directa del Estado como losdiscípulos de Keynes, reclaman mercados tutelados por el Esta-do para resolver esta problemática
+14. Sólo la escuela austriaca
+cuestiona la validez de los argumentos justificatorios de laintervención gubernamental negando la validez de la funda-¿PUEDE LA INTERVENCIÓN ESTATAL SER JUSTIFICADA...? 21
+14Sería el caso, por ejemplo, de los mercados de polución. El Estado limita la
+polución a una cantidad dada de toxinas y después vende en una subasta el dere-cho a contaminar. Conviene recordar que el garante último de que no se sobrepa-se la cantidad «legítima» de polución es el Estado, el mismo que sanciona a quienno respete los límites fijados «científicamente» por expertos o grupos de presióninteresados en tales límites.mentación económica de los mismos15. La escuela austriaca
+de economía parte de una estricta neutralidad axiológica, con-viene recordarlo, y no cuestiona, por tanto, la necesidad delEstado ni toma una postura como tal escuela sobre el grado deintervención que debe adoptar el Estado en la economía, al con-siderarlo una cuestión ajena al ámbito de la cataláctica o estu-dio de los fenómenos que acaecen en el mercado. La escuelaaustriaca se limita a exponer las consecuencias de tal inter-vención (Mises, 2002) y a analizar la validez praxeológica delos argumentos expuestos en su defensa, que, como veremos,es prácticamente nula, dejando libres a los individuos paraque después decidan políticamente por los motivos que creanpertinentes.
+En este epígrafe queremos abordar las críticas praxeológicas
+de la escuela austriaca a tales argumentos, centrándonos espe-cialmente en las críticas que se realizan al funcionamiento delmercado, esto es, en aquellos argumentos que pretenden salvaral mercado de sí mismo imponiéndole restricciones, como es elcaso de las políticas de defensa de la competencia, pues losotros argumentos no se refieren propiamente al funcionamien-to de los mercados, sino que son fallos del Estado propiamen-te dicho. En efecto, tanto lo que se refiere a las externalidadescomo a los bienes públicos, son, en ambos casos, fallos del Esta-do, como bien apuntan los economistas austriacos. Los efectosexternos sólo se dan en ámbitos socializados, esto es, sujetos ala tutela del Estado, o en ámbitos en los que no existen derechosde propiedad. De hecho, la consideración de una externalidadcomo coste o beneficio no puede darse en ausencia de derechosde propiedad, pues ésta afecta en alguna medida a la propie-dad de una o más personas y son éstas las que deciden si supo-22 MIGUEL ANXO BASTOS BOUBETA
+15Una crítica general de los principios que rigen la economía del bienestar (efi-
+ciencia, comparación interpersonal de utilidades...) y, por tanto, justifican la inter-vención estatal, puede verse en Rothbard (1956).ne un bien o un mal16. El sonido de las campanas, por ejemplo,
+será un coste o un beneficio según el afectado, del mismo modoque no hay una definición objetiva de lo que es un mal olor ode si la música del vecino es una obra maestra o un molesto rui-do. Es al afectado en sus derechos de propiedad a quien corres-ponde determinar si es agredido o beneficiado por el bien exter-no y reclamar o negociar, por tanto, su cese, al menos en lo quea él le afecte. La externalidad negativa sólo se da en lugarespúblicos o comunes, como aguas de dominio público (ríos,mares, lagos, acuíferos subterráneos), no así en los manantia-les privados, en el aire (también de dominio público) o en espa-cios públicos como calles, carreteras y otros
+17. El problema y la
+carga de la prueba recaen sobre quien se arroga la titularidadde esos ámbitos, que, como veremos, son ámbitos ajenos por com-pleto al mercado, y es el Estado, por tanto, quien debe justifi-
+car por qué están más sucias las calles de las ciudades que las
+calles privadas de los grandes centros comerciales, o por qué elagua de balnearios y manantiales en donde se embotella con finescomerciales es más salubre que la de los ríos y embalses públi-cos, o por qué huelen peor los baños públicos que los de un esta-blecimiento privado. En otros casos, como la defensa nacional,el argumento no sólo es falaz, sino cínico. La necesidad de defen-sa nacional nace de la existencia del Estado
+18: esto es, si no exis-
+tiesen Estados, las agresiones sólo podrían darse entre indivi-duos o grupos primarios, y éstos no precisan de grandesorganizaciones para defenderse
+19. Es la existencia de Estados¿PUEDE LA INTERVENCIÓN ESTATAL SER JUSTIFICADA...? 23
+16Un tratamiento desde la perspectiva austriaca de las externalidades puede
+verse en Benegas Lynch (1988), Block (1983), Huerta de Soto (1994) y Cordato (2004).
+17Este fenómeno que conduce a la sobreexplotación de los bienes públicos,
+también conocido como «tragedia de los comunes», es estudiado en Hardin (1989)y Anderson y Leal (1993).
+18Los ejércitos modernos son consecuencia directa de la existencia del Esta-
+do (Creveld, 1999).
+19En esto consiste el llamado «principio de competencia política» de Bertrand
+de Jouvenel, que dice que cuando un Estado es capaz de explotar más intensiva-lo que hace que yo me preocupe por defender a individuos a
+los que no conozco, que viven a cientos de kilómetros de mi casay cuya única relación conmigo es la de estar sujetos a la juris-dicción de un mismo Estado
+20. El argumento que se suele usar
+es que un grupo de individuos desorganizado no puede enfren-tarse con éxito a la agresión ejercida por un Estado bien arma-do y organizado. Esto es cierto, pero, entonces, estamos justi-ficando el Estado como necesidad de defendernos de unaexternalidad negativa (la posibilidad de invasión o agresión porlas fuerzas organizadas de otro Estado) que es causada por lapropia existencia de los Estados
+21. Es, pues, el causante del mal
+el que obliga a financiarlo para defendernos de sí mismo. Esta-mos ante un argumento, por tanto, cuando menos injusto yfalaz.
+El argumento de los bienes públicos tampoco puede ser sos-
+tenido desde una perspectiva económica, por varias razones.En primer lugar, por la indefinición del concepto que incluyeinfinidad de bienes, que comparten en mayor o menor medi-da los rasgos de los bienes públicos. El olor de un perfume nopermite la exclusión de quienes lo huelen y un beneficiado másde la fragancia no altera el coste de obtención del perfume. Uncalcetín, como nos recuerda el profesor Block, elimina malos olo-res corporales a los demás, beneficiándolos, y tampoco pode-mos excluir a los beneficiarios ni decir que un beneficiario más24 MIGUEL ANXO BASTOS BOUBETA
+mente a su pueblo por medio de la coacción, ya sea impositiva (impuestos) o per-
+sonal (servicio militar), genera un potencial militar más grande que el de sus veci-nos, que se ven al principio amenazados y/o agredidos hasta que imitan al pio-nero e incrementan la explotación de sus respectivos pueblos (Jouvenel, 1998).
+20También puedo verme en la obligación de atacar a gente que conozco, que
+vive cerca de mi casa y con la que tengo buen trato, sólo porque vive detrás deuna barrera fronteriza distinta de la mía.
+21Esto abriría el debate sobre si es posible o no abolir el Estado en un solo
+país, pues el primero en hacerlo podría dejar a sus antiguos ciudadanos indefen-sos frente al temible potencial agresor de los demás Estados. Una estrategia de tran-sición a una sociedad liberal que aborda algunos de estos problemas puede verseen Huerta de Soto (2002).altere el precio del calcetín, y así ocurre con muchos otros bien-
+es de esta naturaleza que nadie pretende que sean suministra-dos públicamente
+22. En segundo lugar, el que un bien tenga
+características de bien público no implica que sea necesarioforzar a la gente a financiarlo coactivamente, dado que éstepuede ser financiado de forma privada o tal vez puede no serdeseable para muchos ciudadanos. En efecto, la totalidad de losbienes que hoy se consideran privativos del Estado (defensa,justicia, obras públicas...) pueden ser suministrados privada-mente y, de hecho, lo fueron en algún momento histórico. Tan-to justicia (Benson, 2000) como defensa privadas (Hoppe, 2003);carreteras, puentes y calles, pueden ser, y de hecho son, en
+muchas ocasiones, privadas (Davies, 2002), e incluso el míticofaro, paradigma por excelencia de bien público, fue suminis-trado mediante suscripciones a los navegantes en muchas loca-
+lidades
+23(Coase, 1994; Sechrest, 2003). En tercer lugar, no todo
+bien público es beneficioso ni agrada a todo el mundo, y portanto es cuestionable que deba forzarse a toda la ciudadanía afinanciarlo. Los gastos de defensa y el uso que se hace de ellospueden ser cuestionables por muchas personas, pacifistas ono; la seguridad pública, si se usa para reprimir ideas políti-cas o para perseguir delitos sin víctimas como el tráfico de dro-gas o la prostitución, puede desagradar a muchas personas ytransformarse incluso en un mal público; la construcción exce-siva de calles y carreteras puede tener efectos indeseados, comofacilitar el acceso a nosotros a gente con la que no queremostratar (Hoppe, 2002) o destruir paisajes o espacios valiosos paraotras actividades. En cuarto y último lugar, queda la cuestión¿PUEDE LA INTERVENCIÓN ESTATAL SER JUSTIFICADA...? 25
+22Véase una enumeración de bienes de este tipo (el ejemplo del calcetín es suyo)
+y una completa bibliografía en Block (2002).
+23Como curiosidad, hay que decir que fue precisamente la descalificación por
+parte de W. Buckley de las propuestas de Rothbard de privatizar los faros lo queseparó definitivamente a éste de los círculos neoconservadores de la National
+Review , iniciando a partir de entonces una etapa nueva alejada de la derecha tra-
+dicional norteamericana.de si efectivamente los bienes públicos cumplen con los rasgos
+de la no exclusión y de que no se incrementa el coste por unusuario más. Esto no es del todo cierto. En lo que respecta a lano exclusión, es cierto que determinados bienes, como la defen-sa nacional, la seguridad o una banda de música tocando en laplaza pública, no pueden, una vez establecidos, privar a nadiede su disfrute. Ahora bien, la calidad del disfrute no es la mis-ma para todos los usuarios, llegando a constituir bienes distintossegún la situación del usuario. Por ejemplo, no todas las ciu-dades de España están igual de defendidas frente a un enemi-go potencial. Todas los doctrinas militares establecen unos fren-tes y unos lugares a sacrificar frente a ataques enemigos, de lamisma forma que se establecen objetivos de defensa estratégi-cos que privilegian a unas ciudades (normalmente, las sedes delgobierno) y perjudican a otras. Lo mismo se puede decir res-pecto a la seguridad, pues también aquí hay barrios más pro-tegidos (normalmente, donde residen los políticos, que cuen-tan con escoltas y el derecho a portar armas) y otros marginados;hay ciudades bien comunicadas por carretera y otras que no loestán, etc. En lo que respecta al concierto de música, se sabe queno se escucha por igual en toda la plaza y normalmente unbuen puesto requiere esfuerzo, sea de tiempo o de dinero, parapoder disfrutarlo en las mejores condiciones
+24. Así, no todos dis-
+frutan por igual del bien público, y, por tanto, podemos decirque, si bien existen bienes públicos, éstos no son del mismo tipopara todos los ciudadanos, pudiéndose afirmar que se trata debienes distintos (Rothbard, 1993). En lo que respecta a la afir-mación de que un usuario más no incrementa el coste, pode-mos decir que es otra media verdad. En la producción de bien-es públicos, como en muchos otros bienes, se dan fenómenos26 MIGUEL ANXO BASTOS BOUBETA
+24Como se puede comprobar en el caso de las bodas reales, en las que se lle-
+gan a subastar espacios para disfrutar de una buena visión de algo que en teoríadebería de ser un bien público.de escala y umbral, e incorporar un usuario más puede tener
+un elevado coste marginal que desmiente la suposición de base.Por ejemplo, incorporar una determinada zona a la recepciónde programas de televisión necesita de nuevos repetidores;defender un territorio pequeño, como una isla o un enclave
+25,
+puede dar lugar a cuantiosísimos gastos, lo mismo que comu-nicar por carretera a un pueblo aislado.
+Sin embargo, las justificaciones de la intervención estatal
+menos consistentes son aquellas que pretenden salvar al mer-
+cado de sí mismo, esto es, aquellas que presumen que permi-tir acuerdos libres entre las partes conllevaría graves proble-mas de abusos y restricciones en las libertades de la ciudadanía,haciéndose, por tanto, necesaria la restricción de la libertadeconómica precisamente para salvaguardar tal libertad, y que
+son denominados fallos de mercado. Todas ellas parten de un
+punto común, la idea neoclásica de monopolio, situación apar-tada del esquema ideal de competencia perfecta
+26al que antes¿PUEDE LA INTERVENCIÓN ESTATAL SER JUSTIFICADA...? 27
+25El caso de las islas españolas del estrecho de Gibraltar podría ser un buen
+ejemplo de lo dicho. Los gastos necesarios para defender a sus poquísimos habi-tantes consumen buena parte del presupuesto de defensa español. Los consumi-dores marginales sí cuestan, y mucho.
+26Este modelo ideal presupone además información perfecta, esto es, que
+todos los individuos poseen igual información, situación imposible praxeológi-camente de entrada porque desconoce el factor tiempo, es decir, por el mero hechode vivir aprendemos cosas que los individuos que vienen después aún descono-cen. Este supuesto, que imposibilitaría cualquier división del trabajo, justifica, sinembargo, gran número de intervenciones del Estado. Se parte de la base de que siexiste información asimétrica, una de las partes puede estafar o engañar a la otra.Esto podría ser cierto, pero se olvida que el mercado desarrolló a lo largo de suhistoria un gran número de instituciones encaminadas a dificultar tal abuso. Des-de la propia existencia de la competencia, el principio del caveat emptor, pasando
+por todas las organizaciones privadas certificadoras de calidad (véase al respec-to Blundell y Robinson, 2000); lo mismo sucede con el supuesto de la capacidadde predicción perfecta de las consecuencias de nuestras acciones o de las reper-cusiones de eventos futuros sobre nuestros actos. Sobre estos aspectos es intere-sante consultar la obra del Nobel Herbert Simon, quien, influido por Hayek, rea-lizó una durísima crítica de los supuestos de comportamiento del neoclásico Homo
+Economicus (Simon, 1958). Desde un punto de vista austriaco, ver al respecto el exce-
+lente trabajo de Jorg Guido Hülsmann (Hülsmann, 2000).aludíamos y causada por la codicia de algún poderoso con-
+glomerado empresarial que buscaría monopolizar un área delmercado para, una vez capturada ésta, poder imponer abusi-vos precios de monopolio que castigarían a pobres ciudada-nos desprotegidos a los que el Estado tendría que salvaguar-dar por la vía de forzar al codicioso monopolista a aceptar lacompetencia de otras empresas y, en caso de persistir en tanabusiva práctica, a fragmentar o dividir tan perniciosa orga-nización.
+Todo parte de la idea, muy antigua en el tiempo
+27, de la
+empresa monopolista como la organización que pretende hacer-se gracias a malas artes
+28con el dominio de la producción en28 MIGUEL ANXO BASTOS BOUBETA
+27A diferencia de las ideas de externalidad, de bien público y de competen-
+cia perfecta, que tienen su origen en el pensamiento económico del siglo XX, laidea de abusos en el mercado y de la necesidad de una intervención correctorapor parte de la autoridad es tan vieja como la propia actividad mercantil, comose nos recuerda en una célebre compilación de ensayos al respecto, dirigida porKarl Polanyi. (Polanyi, 1976). Una crítica a las ideas de Polanyi puede encon-trarse en Rothbard (2004).
+28Estas malas artes, que buscan en última instancia hacerse con el mercado
+para aplicar precios de monopolio, consisten en el abuso de posición dominante(ya sea cobrando precios abusivos derivados del monopolio, ya sea discriminan-do en los precios cargados a los clientes), en la colusión de precios y en el preciopredatorio, o cargar precios por debajo del coste para arruinar a la competencia,hacerse con el mercado y luego resarcirse cobrando precios de monopolio. Véaseuna crítica detallada a estos postulados en Kirzner (1989, 1999), DiLorenzo (1992),Anderson (2003) y Armentano (1999). En resumen, en una economía de mercadolibre es imposible sostener durante mucho tiempo estas prácticas, pues el excesode beneficios que obtendrían las empresas monopolistas atraería nuevos capita-les al sector, disminuyendo de nuevo la tasa de beneficio de la empresa monopo-lista. Sólo la regulación estatal puede mantener a largo plazo a una industria ensituación de dominio monopolista. Pero conviene recordar que aun en el hipoté-tico caso de que estas prácticas se diesen y se mantuviesen en el tiempo, éstas noconstituirían nada inmoral ni, por tanto, estaría legítimamente justificada la inter-vención correctora estatal. Los propietarios de un bien o recurso cualquiera tie-nen el derecho de venderlo al precio que ellos estimen pertinente, ya sea muy pordebajo o muy por encima del inexistente precio justo o común, lo mismo que lle-gar a acuerdos libres con otros vendedores o productores para pactar precios. Essu propiedad y pueden hacer con ella lo que deseen, y corresponde al consumi-dor libremente aceptar o no tales condiciones. Entre varios economistas austria-cos se planteó un debate iniciado por Israel Kirzner sobre si en algún caso con-un determinado sector para a continuación imponer al consu-
+midor necesitado de esos productos un precio muy superior alque supuestamente se daría en ausencia de tal dominio mono-polista, esto es, condiciones ideales de competencia perfecta,y, por tanto, explotar y esquilmar al pobre consumidor. De aquíse derivaría la necesidad de la intervención del Estado paracorregir tales abusos, creándose, incluso, para tal fin institu-ciones especiales como los tribunales de defensa de la compe-tencia.
+Aparte de que, como vimos en la nota anterior, es práctica-
+mente imposible que un monopolio se derive de tan malasartes, la crítica realizada desde la escuela austriaca a esta jus-tificación de la intervención pasa por cuestionar el concepto demonopolio habitualmente usado. Para los austriacos, habla-mos de monopolio cuando existen barreras legales de entradaa un determinado sector económico
+29. El concepto de monopolio¿PUEDE LA INTERVENCIÓN ESTATAL SER JUSTIFICADA...? 29
+creto el libre mercado derivaba en un monopolio que dañase al consumidor (recor-
+demos que Mises propugnaba que el libre mercado favorecía siempre al consumidor)y por tanto podía justificarse algún tipo de corrección en este caso hipotético. Estono es en ningún modo así porque no hay ninguna norma que diga que el produc-tor tenga que estar al servicio del consumidor ni beneficiarlo, pues esto sólo el con-sumidor lo puede saber. El monopolio obtenido honradamente en el mercado debepoder permitir a su propietario cargar el precio que estime oportuno, pues eso for-ma parte de sus derechos de propiedad, que no debe poder ser limitada por nin-guna suerte de supuesto interés público o general.
+29No se puede hablar de precio de monopolio en condiciones de mercado libre
+porque o bien todos los precios son de monopolio, al ser cada bien y su circuns-tancia únicos (cada trabajador es único, la proximidad de una tienda puede hacer-lade facto monopolista para mí por su distancia y por su trato, la cocina de un res-
+taurante determinado es única...), o bien porque ninguno lo es, al tener todos losbienes o servicios la posibilidad de competencia por parte de todos los demás bien-es, y, por tanto, su capacidad de imponer precios de monopolio estará limitadapor esta competencia —si una empresa monopoliza la electricidad, por ejemplo,y sube el precio demasiado a mi entender, tendré que renunciar, para poder pagarla electricidad, a zapatos, a bocadillos o a cualquier otra cosa que yo prefiera; dehecho, antes se vivía sin ella y hoy muchas personas viven en el mundo sin ella,e incluso, para algunos primitivistas radicales como John Zerzan y su Futuro Pri-
+mitivo (Zerzan, 2001), puede ser incluso una bendición vivir sin ella. Lo mismo
+puede predicarse de cualquier otro bien—. Véase Rothbard (1993) y Block (1977). o de oligopolio austriaco no depende del número o del por-
+centaje de mercado que acapare una o varias empresas, sino deque exista o no libre acceso a tal sector, de tal forma que si enun determinado sector se da de facto la existencia de una sola
+empresa, no cabe más que afirmar que tal es la situación que
+más satisface a los consumidores, siendo no una prueba deabuso sino de eficaz y satisfactorio desempeño. El caso deMicrosoft sería un ejemplo claro de lo antedicho
+30. Las empre-
+sas de software como Microsoft operan con externalidades de
+red, esto es, que cuanta más gente haga uso de un producto oservicio, más ventajoso es para el usuario, y , por tanto, losusuarios se verán favorecidos por la existencia de una únicaempresa que garantice la compatibilidad a nivel mundial desoftware y accesorios (por ejemplo, nuestros archivos pueden ser
+leídos por cualquier otro computador del mundo), abaratandoal mismo tiempo los precios de los mismos al permitirse la pro-ducción a gran escala. En este caso, el monopolio es decididopor el consumidor porque claramente le beneficia, siendo nece-sario, como en el caso español, el apoyo explícito de las Admi-nistraciones públicas
+31, en nombre de una supuesta necesidad
+de libre competencia, para imponer programas alternativoscomo Linux, que podrían perfectamente aparecer sin apoyoinstitucional en el caso de ser deficientes o realmente abusivaslas condiciones impuestas por Microsoft a sus usuarios
+32. Otro30 MIGUEL ANXO BASTOS BOUBETA
+30Un ejemplo del tratamiento del caso de Microsoft desde una perspectiva no
+austriaca puede verse en Cuervo y Sandulli (2003).
+31Es el caso de algunas Administraciones públicas españolas, que parecen haber-
+se embarcado en una carrera por imponer institucionalmente el llamado software
+libre, para así romper el «monopolio» de Microsoft.
+32Se acusa a Microsoft de que su software no acepta software de otras casas,
+requiriéndose por vía legal el código fuente para poder adaptar otros productos.Este requerimiento vulnera por completo los derechos de propiedad de Microsofty, por ende, la libre competencia. Mi automóvil no acepta repuesto de otras mar-cas, lo mismo que mi maquinilla de afeitar no acepta cuchillas de otras marcas, ynadie ve esto como un abuso monopolista. Yo cuando compro estos productos losé y acepto estas condiciones porque entiendo que el producto me compensa. De ejemplo sería el de las fusiones de los canales de televisión
+digitales sujetos a la autorización gubernamental. Muchos eco-nomistas supuestamente defensores del libre mercado recla-man la intervención gubernamental para que fuerce la exis-tencia de más de una cadena digital para garantizar de estaforma la competencia, sin darse cuenta de que, en ocasionescomo ésta, el mercado sólo tiene capacidad de absorber una solaplataforma que combine los contenidos de las dos plataformasexistentes. El problema es de escala o de tamaño del mercado.De la misma forma que entre Vigo y Santiago, por cuestionesde población y renta, sólo es rentable una autopista de peaje,siendo absurdo obligar a construir otra para que exista com-petencia, sería absurdo obligar a que existan dos plataformasdigitales cuando aparentemente sólo se demanda una, sin olvi-dar, por supuesto, el derecho de los propietarios a hacer consus bienes lo que les plazca sin tener por qué pensar en uninexistente bienestar general que nadie es capaz de definir conprecisión. Como deducimos de los casos anteriores, o de casossimilares como el de la Standard Oil norteamericana
+33, en una
+situación de mercado libre, cuando una empresa es única en susector, lo es por su capacidad de satisfacer las necesidades delconsumidor, no porque abuse de su situación, siendo, por tan-to, el Estado el único culpable de que existan monopolios abu-sivos
+34. La teoría económica nos enseña que en caso de que un¿PUEDE LA INTERVENCIÓN ESTATAL SER JUSTIFICADA...? 31
+la misma forma, cuando voy a un supermercado a comprar una marca blanca no
+protesto porque el propietario del supermercado no facilite el acceso a marcasblancas de la competencia a sus estantes.
+33DiLorenzo demuestra, en el artículo arriba referenciado, que en la inmen-
+sa mayoría —por no decir en la totalidad— de los casos que él estudió, las empre-sas sujetas a las sanciones de las leyes antimonopolio no cumplían el supuesto deabusos en el precio, sino todo lo contrario, eran empresas que abarataron sustan-cialmente el precio de los productos que fabricaban, viéndose atacadas judicial-mente por competidores resentidos.
+34En muchos casos, el Estado actúa para proteger los espurios intereses de las
+empresas ya existentes en el sector, pues no hay peor enemigo, por ejemplo, deuna nueva superficie que la ya existente; eso sí, se hace en nombre del pequeño sector económico, en situación de mercado libre, obtenga bene-
+ficios muy superiores a los del conjunto de la industria, se pro-ducirán desplazamientos de capitales desde las industriasmenos rentables a las más rentables, rompiéndose de esta for-ma, de ser reclamado por los consumidores, el monopolio u oli-gopolio. Sólo el Estado puede impedir tal movimiento de capi-tales prohibiendo la entrada en el sector para favorecer a lasempresas ya existentes o bien regulando el número o los requi-sitos de acceso a tal industria, como en el caso de las platafor-mas digitales, en el que es el Estado quien concede las licen-cias para tales industrias, restringiendo el acceso a cadenasextranjeras que pudieran de hecho romper el duopolio. 
+La teoría neoclásica del monopolio y del oligopolio está,
+además, sujeta a muchas otras críticas. En primer lugar, losdefensores de la intervención estatal no definen bien el ámbi-to al que se correspondería el monopolio. No se especifica enla teoría cuál es el territorio mínimo en el que se da el mono-polio ni cuál debe ser. Debemos recordar que el ámbito geo-gráfico de un Estado es una dimensión política, que no puedeni debe confundirse con la adecuada dimensión económica
+35.
+Hay Estados soberanos, como Mónaco o Andorra, del tamañode pequeños municipios españoles; unidades subestatales,como California, con decenas de millones de habitantes y conun potencial económico que las situaría por sí solas entre lossiete grandes, o barrios de grandes ciudades con más habitan-32 MIGUEL ANXO BASTOS BOUBETA
+comercio agredido y para evitar abusos. Ver algunos ejemplos en Boudreaux y
+DiLorenzo (1993).
+35Una crítica del Estado-nación como unidad económica puede verse en Jacobs
+(1996). La autora defiende, en medio de ideas mercantilistas, que las verdaderasunidades de análisis económico deben ser las ciudades y sus áreas de influencia.Hayek, por su parte, relativiza la extendida idea de que la nación es una unidadde análisis económico correcta (Hayek, 1937). Un correcto análisis económicorequerirá, por tanto, pensar, bien en una imaginaria nación aislada por completodel exterior, bien en el mundo en su totalidad, lo que es más realista. Los indica-dores agregados de contabilidad nacional aíslan artificialmente a una nación desu entorno y son causantes de muchos errores en el análisis económico.tes que países europeos como Irlanda. Lo que intentamos cla-
+rificar con esto es que la existencia de una única empresa enun Estado determinado no implica monopolio per se, de la mis-
+ma forma que de la existencia de una única mercería en un
+pueblo pequeño ningún economista denuncia la existencia de
+un monopolio; simplemente, en tal pueblo el mercado de lanasy artículos de costura sólo puede justificar la existencia de unasola tienda de tales características. Por tanto, en Estados depequeño tamaño puede ser perfectamente normal la existenciade una sola empresa en un determinado sector sin que puedaen justicia ser llamada monopolio, pues económicamente hablan-do no hay diferencia entre un Estado poco poblado y un pue-blo del mismo número de habitantes. Los criterios políticos ygeográficos son, pues, de poca utilidad a la hora de determi-nar cuándo hablamos de un monopolio territorial, al no deter-minarse cuál es la dimensión territorial que hay que someteral dominio del monopolio para que pueda determinarse con
+objetividad su existencia. Tampoco los criterios de población
+nos sirven. No podemos decir tampoco que un monopolio o unoligopolio existen, de acuerdo con la teoría económica, cuan-do, por ejemplo, hay una sola compañía de telefonía por cablepara un millón de habitantes, pues todo dependerá del poten-cial de riqueza y, por tanto, de la densidad telefónica del lugar.En Galicia, con casi tres millones de habitantes, podríamos sos-tener tres empresas de estas características. En Nigeria, concien millones de habitantes, es dudoso que se pueda sostenermás de una compañía, pues la capacidad adquisitiva del paíspuede no demandar más que una o ninguna. ¿Cuál es, pues, elumbral a partir del cual podemos definir el monopolio en tér-minos de población? Además, el monopolio, el concepto neo-clásico de monopolio, peca de imprecisión al no determinar ellapso temporal preciso para ser considerado tal. Una de lasgrandes virtudes de la escuela austriaca es la de incorporar elfactor temporal a sus análisis, esto es, no considerar los ajus-¿PUEDE LA INTERVENCIÓN ESTATAL SER JUSTIFICADA...? 33tes económicos como automáticos e inmediatos, sino como
+eventos que requieren tiempo y empresarios para llevarlos acabo. El factor tiempo es importante para entender los fenó-menos monopolistas y para demostrar la imprecisión de muchasde sus definiciones. Los fenómenos económicos no se produ-cen al unísono. La primera empresa que se crea dentro de unsector es, por definición, monopolista durante un lapso de tiem-po variable, precisamente por ser la primera en establecerse.Del mismo modo, una empresa que aparezca como competen-cia de otra ya instalada tardará algún tiempo en expandirse yse expandirá gradualmente, permaneciendo muchas localida-des durante un tiempo sometidas de hecho a una situaciónmonopolística. Es lo que ocurre, por ejemplo, en el mercado delos derivados petrolíferos. Las nuevas compañías que se esta-blezcan, aun suponiendo la inexistencia de barreras legales deentrada, tardan tiempo en establecer su logística y se expan-den gradualmente, permaneciendo en muchos sitios en la situa-ción «monopolista» anterior, o incluso para siempre si a la nue-va compañía no le apetece abastecer a un determinado mercado.De ahí las quejas de muchos defensores de la libre competen-cia y las demandas de intervención de dicho sector para garan-tizar la libre competencia. Pero lo que en ningún caso se pre-cisa es cuál debe ser el lapso temporal necesario para que unaempresa merezca el apelativo denigrante de monopolista. Tam-bién es habitual decidir la intervención de un sector cuando unaempresa alcanza un determinado porcentaje de mercado, comoes el caso de las grandes superficies comerciales, que no pue-den controlar —sin riesgo de ser sancionadas— más de un por-centaje determinado de su teórico mercado en un territoriodeterminado. Dejando aparte la injusticia de castigar a quiensatisface mejor al consumidor hasta el punto de conseguir talgrado de respaldo en el mercado, cabe considerar por qué seescoge una cifra determinada, digamos el 70% del mercado, yno otra cualquiera. No hay criterio científico alguno distinto de34 MIGUEL ANXO BASTOS BOUBETAla mera arbitrariedad que pueda justificar científicamente tal
+medida, aparte de que se pueden aplicar muchas de las obje-ciones anteriores. Cuando criterios extraídos de la geografía polí-tica se usan para definir conceptos catalácticos, lo único que segenera es confusión. De qué sirve definir a un determinadohipermercado como monopolista u oligopolista en Galicia, ymultarlo u obligarlo a dividirse, cuando a 15 minutos del«monopolio», en Portugal, existe competencia sobrada, situa-da justo en la frontera y fuera de la jurisdicción definidora delo que es o no es monopolio. 
+Con lo dicho anteriormente se trata de probar que la argu-
+mentación económica para justificar la intervención del Esta-do en la vida económica con la excusa de salvar al mercado desí mismo
+36no resiste un análisis riguroso. Se hace necesario,
+pues, recurrir a otro tipo de justificaciones que analizaremos acontinuación.
+IV . CRÍTICA DE LOS ARGUMENTOS ÉTICOS 
+EN DEFENSA DE LA INTERVENCIÓN
+Además de los argumentos de orden económico que pretenden
+justificar la intervención estatal, los paradigmas económicosdominantes —y muy en especial el neoclásico— están plaga-dos de justificaciones éticas de la intervención estatal disfra-zadas de rigurosa ciencia. Es más, cuanto más se formaliza la¿PUEDE LA INTERVENCIÓN ESTATAL SER JUSTIFICADA...? 35
+36Hay, por supuesto, más intervenciones estatales justificadas sobre la base
+de las imperfecciones del mercado y la presupuesta estupidez o la falta de infor-mación, como lo son las regulaciones de consumo o las licencias profesionales, tam-bién, supuestamente, para garantizar desde el gobierno la calidad del servicio alpobre consumidor. Lo que no entiendo es cómo el mismo ciudadano estafado alcomprar leche, pan o un automóvil, productos en los que tiene verdadero interéspor informarse, pueda, en cambio, tener la capacidad de discernir entre sesudosprogramas políticos y económicos sin que lo engañen y sin necesidad de que loprotejan o tutelen, o participar en el diseño de complejos «presupuestos partici-pativos» al estilo de Porto Alegre.ciencia económica, más deudora es de argumentaciones de cor-
+te ético o moral, lo que contrasta aún más con la verdaderaciencia económica libre de valores que caracteriza a la escuelaaustriaca. Conceptos valorativos como justicia social, o el equi-valente preferido por los economistas de equidad en la distri-bución de la renta, crecimiento económico, desarrollo y sub-desarrollo, bienes de mérito o precariedad laboral, o indicadorescomo el PIB per cápita o la tasa de IPC, entre otros muchos, sonusados en el discurso económico como si existiese consensosobre su significado y para justificar como científicamente rigu-rosa la intervención estatal sobre aspectos de la vida social yeconómica
+37. Así, se hará política para favorecer la equidad
+entre hombres y mujeres o se establecerán medidas para dis-minuir el crecimiento del IPC
+38porque el mercado salvaje y com-
+pletamente desregulado supuestamente no tendría en cuentatales efectos dañinos para los ciudadanos, especialmente los máspobres. En definitiva, se justifica la intervención estatal entodos estos casos por motivos de ética social, esto es, porquees injusto que unos sean más ricos que otros o que unas regio-nes crezcan o sean más ricas que otras por culpa del mercado,o porque determinados ciudadanos no pueden acceder a algu-nos bienes a los que supuestamente se tiene derecho sin con-traprestación previa por parte de uno (educación, vivienda,sanidad...), y se hace necesario por parte de los poderes públi-cos corregir tales y tan graves disfunciones. Esto habitualmentese categoriza de forma vaga como el derecho a una plena jus-36 MIGUEL ANXO BASTOS BOUBETA
+37Sobre el proceso de transformación de ideas y valores, en concreto las ide-
+as keynesianas, en «ciencia económica neutral», véase Brenner (1995).
+38Es curioso que cuando se actúa sobre el IPC se actúa sobre el indicador en
+sí, no sobre las causas, pagando las consecuencias normalmente sectores inocen-tes. En vez de vigilar la creación de dinero vía déficit o vía multiplicador banca-rio, se aborda el problema en muchas ocasiones poniendo precios máximos a lasgasolinas o a los alquileres o a cualquier otro sector mal visto políticamente (lasgasolinas tienen que ser baratas a la fuerza, mientras que si la leche es barata esuna desgracia, ¡misterios de la política!).ticia social, palabra comodín que se aplica a toda situación
+social que no satisface ética o estéticamente a quien propugnala intervención
+39.
+La crítica a estas justificaciones tiene que hacerse, por tan-
+to, en el plano de la ética y los economistas austriacos elabo-raron argumentos de corte ético y moral que deslegitiman porcompleto las pretendidas bases morales de los estatistas. Lalegitimidad de la justicia social como fuente de políticas públi-cas fue duramente cuestionada por Hayek, en varios de suslibros pero muy en especial en Derecho, legislación y libertad. En
+este libro Hayek demuestra la imposibilidad lógica de la exis-tencia de algo llamado justicia social (Hayek, 1988; Jouvenel,2000; Flew, 1996). La justicia o injusticia de una acción sólopuede ser predicada de una acción deliberada y consciente, node eventos que escapen a la humana volición. Si yo le quito lacomida a un chiquillo y me la como estoy cometiendo unainjusticia, pero si ese chiquillo nace en una familia pobre (ofeo
+40, débil, poco inteligente o simpático...) no es culpa de nadie
+en concreto, pues, primero, nadie decidió tal cosa deliberada-mente, no pudiendo ser predicada tal situación como injustasocial o individualmente, y, segundo, nadie puede hacer unjuicio externo, científico, sobre la indeseabilidad intrínseca detal situación
+41. La supuesta injusticia de la desigualdad de opor-¿PUEDE LA INTERVENCIÓN ESTATAL SER JUSTIFICADA...? 37
+39Sobre la corrupción del lenguaje y el abuso del concepto «social», véase Hayek
+(1992).
+40Sobre la importancia social y económica de nacer feo o guapo y las extre-
+mas desigualdades generadas por este accidente, véase Etcoff (2000). Murray
+Rothbard, argumentando también contra las políticas igualitarias, hace una muy
+interesante comparación de las desigualdades entre altos y bajos (Rothbard, 2000).
+41La pobreza puede en algunos casos ser consecuencia de formas de vida reli-
+giosas o ascéticas decididas deliberadamente, que valoren la pobreza como algo
+deseable. Lo mismo pasa con los otros factores de desigualdad: no se puede saber
+desde fuera del propio sujeto hasta qué punto se encuentra más o menos satisfe-cho con su situación, y, por tanto, ésta es percibida como injusta. La imposibili-dad de hacer mediciones intersubjetivas de utilidad fue expuesta con mucha bri-llantez por Murray Rothbard (Rothbard, 1956).tunidades no se sostiene42. Primero, porque no es injusta, como
+acabamos de ver (Hazlitt, 1979), y segundo, porque es imposi-ble garantizar la plena igualdad de oportunidades, pues tam-poco existe tal cosa. El hijo de un biólogo partirá con ventajasi quiere ser a su vez biólogo y lo hará con desventaja si quie-re ser actor o trapecista con respecto al hijo de un profesionalde tales disciplinas. En una ciudad grande se parte con venta-ja para muchas cosas, pero no para ser agricultor o cazador, siesas son las preferencias o aptitudes del chico. Todos nosotros,aun disfrutando de educación y recursos económicos, no pode-mos ser muchas cosas en las que potencialmente podríamos sermuy buenos por la imposibilidad de conocerlo todo. Quiénsabe si este autor no pudo ser un excelente jugador de béisbolo un magnífico cantante de ópera china, ganando más dineroo siendo, quién sabe, más feliz. Por desgracia, en su Galicianatal no hay tradición de ninguna de estas cosas y ahora ya estarde para comenzar. A estas desigualdades de oportunidadesse suman las propias opciones vitales del individuo (casarse ono y con quién, estudiar o divertirse, trabajar más o menos...),que no se pueden igualar sin restringir libertades fundamen-tales del ser humano y que conllevan como consecuencia des-igualdades en renta o estatus. Por tanto, las políticas redistri-butivas son, por naturaleza, injustas, pues se basan, primero,en un modelo normativo de lo que hay que igualar —normal-mente, la renta monetaria o las propiedades—, sin darse cuen-ta de que, salvo que éstas hayan sido obtenidas por fraude opor fuerza, son fruto de desigualdades naturales previas enalgún aspecto (Rothbard, 1995a). Nadie habla de distribuir lainteligencia (escuelas malas para los inteligentes y escuelasde elite para los menos dotados en este campo) o la belleza o38 MIGUEL ANXO BASTOS BOUBETA
+42Una crítica sistemática de las doctrinas que defienden la redistribución
+como forma de alcanzar la «justicia social» puede encontrarse en Benegas Lynch(1997).el carácter emprendedor o las habilidades físicas de los fut-
+bolistas, por ejemplo, cuando son éstas, y su valoración por par-te de los demás individuos, las que concluyen en una mayorrenta. Además, tal redistribución de rentas puede ser tremen-damente injusta para muchos individuos que, partiendo condesigualdad en algún ámbito de la vida, pueden querer usaresa renta para satisfacer tal desigualdad
+43. Una persona que
+nace en un medio cultural bajo puede querer adquirir rentaselevadas para poder comprar en el mercado la cultura que elhijo del catedrático universitario izquierdista disfruta en su casadesde que nació. El feo puede querer adquirir belleza a travésde cirugía estética o ropas vistosas que compensen su des-igualdad de partida en el mercado matrimonial, etc. Si forza-mos la redistribución estamos condenando a esas personas aser de por vida desiguales en esos ámbitos, lo que sí sería real-mente injusto.
+La moderna escuela austriaca, sobre todo a partir de auto-
+res anarcocapitalistas como Murray N. Rothbard y sus sucesores,va aún más allá y reclama la inmoralidad de cualquier tipo deintervención estatal en la regulación de la vida económica queno afecte a la protección de los legítimos derechos de propie-dad. Estos autores no se centran en la mayor o menor disfun-cionalidad de la intervención o en sus no intencionadas con-secuencias, sino que se concentran en el carácter intrínsecamentecoercitivo y denegador de la intervención estatal. La interven-ción estatal en la vida social implica siempre la negación biendel uso legítimo del propio cuerpo o de los bienes propiedadde uno. Rothbard (1970) distingue al respecto tres tipos de¿PUEDE LA INTERVENCIÓN ESTATAL SER JUSTIFICADA...? 39
+43Recordemos que para los economistas austriacos, desde Menger, se entien-
+de que el objeto de las rentas monetarias son los placeres físicos o psicológicos quese obtienen a través de los bienes que se adquieren con tales rentas. Queremos unacasa grande por la necesidad psicológica de espacio, manjares por el placer queproporcionan y para evitar los rigores del hambre, vestido para evitar el dolor delfrío y para satisfacer nuestra vanidad.intervención estatal: autista, que niega el uso de la propiedad
+o del cuerpo de uno sin obtener contraprestación el Estado(prohibición del suicidio o del consumo de drogas plantadasen nuestra propiedad...); binaria, aquella que impone una rela-ción forzosa, monetaria o en especie entre el individuo y elEstado (servicio militar, impuestos, expropiaciones forzosas...);y triangular, aquella que impide que dos o más individuosestablezcan libremente relaciones personales o comercialesentre sí y en los términos que ambas partes establezcan (pro-hibición de relaciones homosexuales entre adultos libres, pros-titución, salarios mínimos, regulaciones de calidad...). En todosestos casos la coacción institucional agrede la vida y las liber-tades del individuo en lo que respecta a asuntos que sólo a ély a su propiedad conciernen, constituyendo de este modo unainmoralidad flagrante. Por ejemplo, las leyes de salario míni-mo constituyen un claro ejemplo de intervención disfuncionaleconómicamente, como bien demuestran los estudios de laescuela austriaca (Mises, 2002; Hazlitt, 1996). Pero además —yésta es la principal aportación de académicos como Rothbard—violan la libertad de los agentes de pactar y de hacer de su vidalo que ellos deseen. Los argumentos éticos a favor de la inter-vención se vuelven entonces contra quienes los propugnan.
+Otro ejemplo de coacción institucional sería el de establecer
+objetivos de política económica aparentemente benignos y jus-tificados éticamente, como son los de promover a través de laplanificación estatal el crecimiento del PIB o el desarrollo eco-nómico. Estos objetivos, en realidad, son de corte ideológicomoral, pero, vendidos a la opinión pública como pura racio-nalidad económica, no dejan de ser valoraciones propias delgobernante
+44. En efecto, las valoraciones de los individuos se
+corresponden con los gustos y preferencias de cada uno, no40 MIGUEL ANXO BASTOS BOUBETA
+44Al respecto, resulta muy interesante consultar la desmitificación que hace
+Rothbard de este tipo de semántica económica (Rothbard, 1995b).pudiendo existir ninguna valoración «social» por encima de
+las valoraciones individuales (Rothbard, 1956). Todas las per-sonas escogen de acuerdo con sus valores e inclinaciones unadeterminada combinación de trabajo y ocio, y no es, por tan-to, moralmente legítimo por parte del Estado imponer a unindividuo valores que le puedan ser ajenos o que violen suconciencia. Hay individuos que pueden preferir legítimamen-te, y asumiendo las consecuencias de tal elección, vivir traba-jando poco y en un entorno rural y poco desarrollado, mien-tras otros prefieren también legítimamente ganar mucho dinerotrabajando mucho y viviendo en entornos más apropiados a talfin. El desarrollo no se puede
+45forzar por el Estado, aunque
+muchas personas así lo prefieran, mediante políticas, pues sóloconducirá a subordinar las preferencias individuales para satis-facer los —en muchas ocasiones— espurios intereses de los
+gobernantes (además de que es muy probable que tal planifi-
+cación central no consiga sus objetivos sino que empeore aúnmás la situación, como se pudo comprobar con la planificaciónen los países socialistas). 
+V . CONCLUSIÓN
+En este artículo tratamos de demostrar la insolvencia de las
+justificaciones científicas o éticas de la existencia del Estadocomo elemento regulador de la vida social. Curiosamente, losmejores y más brillantes argumentos a favor de la existencia delEstado son los que se olvidan de la ciencia y de la ética y recu-rren en cambio a elementos aparentemente menos racionales¿PUEDE LA INTERVENCIÓN ESTATAL SER JUSTIFICADA...? 41
+45En efecto, el Estado no tiene capacidad, a través de su intervención activa,
+de conseguir el desarrollo económico (entendido, claro está, como mejora en el bien-estar material de los ciudadanos de un país). Sólo los individuos a través de ins-tituciones como el mercado o la propiedad privada, entre otras, pueden conseguirtal objetivo (Bauer, 1988).como la tradición y el hábito, además del crédito mágico y mis-
+terioso en el gobernante, como bien reconocen Rothbard (Roth-bard, 1978) y Jouvenel (Jouvenel, 1998). La fuente principal delegitimación de la existencia del Estado sigue siendo su carác-ter misterioso y casi sagrado (véase, si no, el misterio y secre-tismo de los grandes bancos centrales), heredado de los tiem-pos del derecho divino de los reyes y al que bajo ningúnconcepto renuncian los Estados actuales y su continuidad yduración en el tiempo como tales Estados (la principal excusapara evitar movimientos secesionistas pacíficos es que rompecon una larga tradición histórica de estabilidad), y en los cos-tes que tal transición acarrearía
+46. El carácter mágico, tauma-
+túrgico, del Estado hace que éste aparezca como omnipotente,capaz de resolver todos los problemas del individuo y, comoel viejo monarca, se somete a todo tipo de peticiones por par-
+te de los administrados, que ven en él, gracias a la labor legi-
+timadora de los intelectuales de la corte, un ente benigno dis-pensador de favores y gracias. Además, el Estado se configurasegún esta visión como el único garante de la paz social, comoalgo inevitable (Holcombe, 2004). De ahí que autores comoHobbes, uno de los mejores teóricos del Estado de todos lostiempos, incidan en este aspecto a la hora de defender la exis-tencia del Estado, como un ser maligno pero necesario paraimponer la paz social, dejando a un lado visiones contractua-42 MIGUEL ANXO BASTOS BOUBETA
+46Una de las principales deficiencias del pensamiento libertario reside en su
+falta de una teoría política de la transición a una sociedad sin Estado y una eva-luación teórica de sus costes. Cuestiones como si un Estado en concreto puede disol-verse él solo o si todos los Estados deben disolverse a la vez, o de si es posible paraun movimiento político libertario que cuente sólo con una parte —aunque mayo-ritaria— de los votos, disolver las instituciones políticas y abolir toda posibilidadde reversión a la situación anterior, son insuficientemente tratadas por los pensa-dores libertarios. Un actor hayekiano como Kukathas apunta algo de esto (Kuka-thas, 2003). Rothbard escribió un libro sobre este tema que por desgracia perma-nece inédito, aunque en Internet (agradezco a Roberto Suárez la referencia) sepuede encontrar un resumen (Rothbard, 1977). Sin embargo, este tema es aborda-do parcialmente en Huerta de Soto (2002) y de nuevo en Rothbard (1992).listas más benignas hacia el Estado pero también menos rea-
+listas (Block y DiLorenzo, 2000). Por su parte, la legitimacióntemporal del Estado, sobre todo gracias a la identificación his-tórica de los Estados actuales con dinastías históricas de reyeso aristocracias, es una legitimación como la anterior, basada enaspectos aparentemente irracionales como es el mero discurrirdel tiempo, pero que, sin embargo, como nos recuerda Hoppe(Hoppe, 2001) al referirse a la racionalidad de las monarquías,introduce elementos de estabilidad y de perspectiva temporalde los gobernantes, algo que la racionalidad «científica» no escapaz de ofrecer. Observemos la forma que tienen los Estadosactuales, que no es para nada la más racional técnica o econó-micamente (Friedman, 1977; Buchanan, 2003). Incluyen espa-cios heterogéneos muy difíciles de comunicar y que están uni-dos por meros avatares históricos. Un Estado construido deacuerdo con principios racionales probablemente tendría otrasformas supuestamente más racionales, pero estaría sometidosiempre al propio dictamen de la razón económica o técnica,de tal forma que cuando las condiciones económicas o técni-cas cambiasen tendría también que hacerlo la forma del Esta-do, dificultando, por tanto, una adecuada perspectiva tempo-ral en los gobernantes, que no sabrían si el gobierno seguiríasiendo suyo al cabo de un tiempo, no estando, por tanto, inte-resados en su conservación y prosperidad a largo plazo
+47. Otro
+tipo de justificación interesante, pero tampoco científica en elsentido antes analizado, sería la que ve al Estado como un enteque, si bien nace de la violencia y la predación (Tilly, 1985; Rus-tow, 1980), es, en su forma moderna de Estado benefactor, el¿PUEDE LA INTERVENCIÓN ESTATAL SER JUSTIFICADA...? 43
+47De la misma forma, el monarca, al considerarse él y su familia como pro-
+pietarios del Estado, tendrá interés en conservar la prosperidad de sus goberna-dos a largo plazo pues él también se verá beneficiado a largo plazo, mientras quela perspectiva temporal del gobernante democrático es mucho más limitada, comosabemos por los estudios de la Public Choice, y buscará obtener beneficio a cortoplazo sin tener en cuenta el porvenir de sus gobernados.resultado de la evolución histórica de la misma forma que otros
+órdenes espontáneos (Ikeda, 1997).
+Con lo anterior no queremos decir que la existencia del Esta-
+do esté justificada. Precisamente por ello no se estudian en este
+trabajo las críticas a la intervención estatal procedentes de la
+escuela neoclásica, conocida como escuela de la Elección Públi-ca, porque este paradigma no aborda el problema de la raíz últi-ma de la existencia de políticas públicas, al dedicarse sólo a ana-lizar los fallos del sector público, comparándolos a continuacióncon los del sector privado sin cuestionarlo nunca en su origen(Wolf, 1995; Stanbury y Thompson, 1995). Sólo que los argu-mentos supuestamente científicos y filosóficos que apoyan suexistencia no se se pueden justificar teniendo que recurrir, comoen la antigüedad, a temores derivados de la ausencia de Estadoo a misteriosos conjuros, eso sí, adaptados a la retórica de hoy,de los modernos chamanes que rigen nuestras finanzas
+48, que
+son y no pueden ser otros los únicos asideros a que puedenrecurrir los defensores del Leviatán. El problema que se les plan-tea es que su propio discurso ataca con dureza a este tipo de jus-tificaciones, quizá porque ahí no se pueden encontrar con faci-lidad argumentos legitimadores de muchas de las políticas quehoy se llevan a cabo y, por lo tanto, restringen su capacidad deactuación
+49. Y, en definitiva, cuando se ven atacados con argu-
+mentos praxeológicamente rigurosos, tienen que refugiarse enargumentos que previamente ellos mismos habían denostado
+50.44 MIGUEL ANXO BASTOS BOUBETA
+48Rothbard se refiere en su libro al aura de misterio que rodea a los moder-
+nos banqueros centrales y a su lenguaje críptico (Rothbard, 1994).
+49Sobre el carácter limitado del derecho divino de los reyes, es muy intere-
+sante Kern (1955).
+50Recuérdese cómo se aprovechó el caos provocado por las tropas norteame-
+ricanas en su invasión de Irak para recordarle al mundo el caos que se daría enausencia del Estado, de la misma forma que algunos gobernantes de pueblos dela antigüedad permitían varios días de anarquía a la muerte de un rey para que elpueblo añorase la llegada de nuevo del gobierno. El problema es que en ningunode estos casos se permitía la creación de instituciones surgidas de la sociedad civilencargadas de mantener el orden.BIBLIOGRAFÍA
+ANDERSON , D.R. y L EAL, T.L. (1993), Ecología de mercado , Madrid,
+Unión Editorial.
+ANDERSON , W.L. (2003), «Pounding Square Pegs into Round
+Holes: Another Look at the Neoclassical Theory of Pre-datory Pricing», en Quartely Journal of Austrian Econo-
+mics , vol. 6, n.º 1, Spring, pp. 23-40.
+A
+RANZADI DEL CERRO , J. (1999), Liberalismo contra liberalismo.
+Análisis teórico de las obras de Ludwig von Mises y Gary Bec-ker,Madrid, Unión Editorial.
+A
+RMENTANO , D.T. (1999), Antitrust. The Case for Repeal , Auburn,
+Ludwig von Mises Institute.
+BAUER , P .T. (1988), Crítica de la teoría del desarrollo , Barcelona,
+Orbis.
+BENEGAS LYNCH , A. (1988), «Bienes públicos, externalidades y los
+free-riders : el argumento reconsiderado», en Estudios
+Públicos , n.º 71, invierno.
+— (1997), «Socialismo de mercado», en Libertas , n.º 127, Año
+XIV , octubre.
+BENSON , B.L. (2000), Justicia sin Estado , Madrid, Unión Editorial.
+BLOCK , W. (1977), «Austrian Monopoly Theory. A Critique», en
+Journal of Libertarian Studies , vol. 1, n.º 4, pp. 271-279.
+— (1983), «Public Goods and Externalities: The Case of
+Roads», en Journal of Libertarian Studies , vol. VII, n.º 1,
+Spring, pp. 1-34
+— (1989), «The Justification for Taxation in the Public Finan-
+ce Literature: An Unorthodox View», en Economia delle
+scelte pubbliche , vol. 3, pp. 141-158.
+— (1993), «Public Finance Texts Cannot Justify Government
+Taxation: A Critique», en Canadian Public Administration ,
+vol. 36, n.º 2, pp. 225-262.
+BLOCK , W. y D ILORENZO , T.J. (2000), «Is voluntary Government
+Possible? A Critique of Constitutional Economics», en¿PUEDE LA INTERVENCIÓN ESTATAL SER JUSTIFICADA...? 45Journal of Institutional and Theoretical Economics , vol. 156,
+n.º 4, December, pp. 567-582.
+— (2002), «All Government is Excessive: A Rejoinder to
+Dwight Lee´s “In Defense of Excessive Government”», en
+Journal of Libertarian Studies , vol. 16, n.º 3, Summer, pp.
+35-82.
+BLUNDELL , C. y R OBINSON , J. (2000), «Regulación sin el Estado»,
+enLibertas , n.º 20.
+BOETTKE , P . y L EESON , P . (2002), «The Austrian School of Econo-
+mics», en Jeff Biddle y Warren Samuels (eds.), Blackwell
+Companion to the History of Economic Though , Oxford, Basil
+Blackwell, 2002.
+BOIX, C. (1991), «Promesas y límites del policy analysis en Esta-
+dos Unidos», en Documentación Administrativa , n.º 224-
+225, octubre 1990-marzo 1991, pp. 167-194.
+BOUDREAUX , D.J. y D ILORENZO , T.J. (1993), «The Protectionists
+Roots of Antitrust», en Review of Austrian Economics , vol.
+6, n.º 2, pp. 81-96.
+BRENNER , R. (1995), «Sciences of Political Lies, or Governments
+and Markets of Ideas», en Advances in Austrian Econo-
+mics , vol. 2B, pp. 345-369.
+BUCHANAN , A. (2003), «The Making and Unmaking of Bounda-
+ries: What Liberalism Has to Say», en Allan Buchanan yMargaret Moore (eds .),States, Nations and Borders. The
+Ethics of Making Boundaries , Cambridge, Cambridge Uni-
+versity Press, pp. 231-272.
+C
+ALHOUN , J. (1851), Disquisición sobre el gobierno , Madrid, Tec-
+nos, 1996.
+COASE , R. (1994), «El faro en la economía», en Ronald Coase, La
+empresa, el mercado y la ley, Madrid, Alianza Editorial, pp.
+187-205.
+CORDATO , R. (2004), «Toward an Austrian Theory of Environ-
+mental Economics», en Quarterly Journal of Austrian Eco-
+nomics , vol. 7, n.º 1, Spring, pp. 3-16.46 MIGUEL ANXO BASTOS BOUBETACREVELD , M. van (1999), The Rise and Decline of the State , Cam-
+bridge, Cambridge University Press, pp. 242-258.
+CUERVO GARCÍA y S ANDULLI , F.D. (2003), «Creación empresarial
+y dominio del mercado: El caso del Departamento deJusticia de los Estados Unidos contra Microsoft», enInformación Comercial Española , n.º 808, julio, pp. 217-
+234.
+D
+AVIES , S. (2002), «Laissez-Faire Urban Planning», en David T.
+Beito, Peter Gordon y Alexander Tabarrok (eds.), The
+Voluntary City: Choice, Community and Civil Society , Ann
+Arbor, The Independent Institute, pp. 18-46.
+DILORENZO , T.J. (1992), «The Myth of Predatory Pricing», en
+Policy Analysis , n.º 169, February 28.
+ETCOFF , N. (2000), La supervivencia de los más guapos , Madrid,
+Debate.
+FLEW, A. (1996), «Social Democracy and the Myth of Social Jus-
+tice», en Hardy Bouillon (ed.), Libertarians and Liberalism.
+Essays in Honour of Gerard Radnitzky , Aldershot, Avebury,
+pp. 170-183.
+FORMAINI , R. (1990), The Myth of Scientific Public Policy , New
+Brunswick,Transaction.
+FRIEDMAN , D. (1977), «A Theory of the Size and Shape of
+Nations», en Journal of Political Economy , vol. 85, n.º 1,
+pp. 59-77.
+GARSON , D.G. (1992), «De la ciencia de políticas al análisis de
+políticas: Veinticinco años de progreso», en Luis F. Agui-lar Villanueva (ed.), El estudio de las políticas públicas ,
+México, Porrúa, pp. 149-179.
+G
+OLDHAMER , H. (1978), The Adviser , New York, Elsevier.
+GOULDNER , A. (1985), El ascenso de los intelectuales y el ascenso de
+la nueva clase , Madrid, Alianza editorial.
+HARDIN , G. (1989), «La tragedia de los comunes», en Herman
+Daly (ed.), Economía, ecología y ética: Ensayos hacia una eco-
+nomía en estado estacionario, México, FCE.¿PUEDE LA INTERVENCIÓN ESTATAL SER JUSTIFICADA...? 47HAYEK , F.A. (1937), El nacionalismo monetario y la estabilidad inter-
+nacional , Madrid, Aosta, 1996, pp. 39-49.
+— (1988), Derecho, legislación y libertad. Vol. II: El espejismo de
+la justicia social , Madrid, Unión Editorial.
+— (1992), La fatal arrogancia: Los errores del socialismo , Madrid,
+Unión Editorial, pp. 173-190.
+— (2003), La contrarrevolución de la ciencia , Madrid, Unión Edi-
+torial.
+HAZLITT , H. (1979), Los fundamentos de la moral , Buenos Aires,
+Fundación Bolsa de Comercio de Buenos Aires, pp. 391-416.
+— (1996), La economía en una lección , Madrid, Unión Edi-
+torial.
+H
+OLCOMBE , R. (2004), «Government : Unnecessary, but Inevita-
+ble», en Independent Review , vol. VIII, n.º 3, Winter 2004,
+pp. 325-342.
+HOPPE , H.-H. (1990), «Marxist and Austrian Class Analysis»,
+enJournal of Libertarian Studies , vol. 9, n.º 2, Fall, pp. 
+79-93.
+— (1996), «Falacias de la teoría de los bienes públicos y la
+producción de seguridad», en Libertas , n.º 24, mayo.
+— (2001), Democracy: The God that Failed , New Brunswick,
+Transaction. Existe traducción castellana: Monarquía, demo-
+cracia y orden natural (Madrid, Ed. Gondo, 2004).
+— (2002), «Natural Order, the State, and the Inmigration
+Problem», en Journal of Libertarian Studies , vol. 16, n.º 1,
+Winter, pp. 75-97.
+— (ed.) (2003), The Myth of National Defense , Auburn, Lud-
+wig von Mises Institute.
+HUERTA DE SOTO, J. (1994), «Derechos de propiedad y gestión pri-
+vada de los recursos de la naturaleza», en Jesús Huertade Soto, Estudios de Economía Política , Madrid, Unión Edi-
+torial, pp. 229-249.
+— (2000), La escuela austriaca , Síntesis, Madrid, pp. 13-32.48 MIGUEL ANXO BASTOS BOUBETA— (2002), «El economista liberal y la política», en Jesús Huer-
+ta de Soto, Nuevos estudios de economía política , Madrid,
+2002, pp. 163-192.
+— (2004), «La teoría de la eficiencia dinámica», en Procesos
+de Mercado , vol. I, n.º 1, primavera, pp.11-71.
+HÜLSMANN , J.G. (2000), «A Realistic Approach to Equilibrium
+Analysis», en Quartely Journal of Austrian Economics, vol.
+3, n.º 4, Winter, pp. 3-51.
+IKEDA , S. (1997), Dynamics of the Mixed Economy , London, Rout-
+ledge.
+JACOBS , J. (1986), Las ciudades y la riqueza de las naciones , Barce-
+lona, Ariel.
+JOUVENEL , B. de (1998), Sobre el poder. Historia natural de su cre-
+cimiento , Madrid, Unión Editorial, pp. 201-219.
+— (2000), La soberanía , Granada, Comares, pp. 153-176.
+KERN, F. (1955), Derechos del rey y derechos del pueblo , Madrid,
+Rialp.
+KEYNES , J.M. (1988), «Las posibilidades económicas de nues-
+tros nietos», en John Maynard Keynes, Ensayos de per-
+suasión , Crítica, Barcelona.
+KIRZNER , I.M. (1989), «Antitrust Reform: Predatory Practices
+and the Competitive Process», en Review of Austrian Eco-
+nomics , vol. 3, n.º 1, pp. 61-74
+— (1999), «Los objetivos de la política antitrust: una crítica»,
+enInformación Comercial Española , n.º 775, diciembre 1998-
+enero 1999, pp. 67-77.
+KUKATHAS , C. (2003), «The Cultural Contradictions of Socialism»,
+Social Philosophy and Policy , vol. 20, n.º 1, pp. 165-190.
+MIROWSKI , P . (1989), More Heat Than Light , New York, Cam-
+bridge University Press. 
+MISES, L. von (2002), Crítica del intervencionismo , Madrid, Unión
+Editorial.
+OPPENHEIMER , F. (1926), The State , New York, Free Life Editions,
+1975.¿PUEDE LA INTERVENCIÓN ESTATAL SER JUSTIFICADA...? 49PETERS , B.G. (1999), La política de la burocracia , México, Fondo
+de Cultura Económica.
+POLANYI , K. (dir.) (1976), Comercio y mercado en los imperios anti-
+guos , Barcelona, Labor.
+ROTHBARD , M.N. (1956), «Toward a Reconstruction of Utility
+and Welfare Economics», en Hans Sennholz (ed.), On Free-
+dom and Free Enterprise: Essays in Honor of Ludwig von
+Mises , Princeton, D. Van Nostrand.
+— (1961), Man, Economy and State , Ludwig von Mises Insti-
+tute, Auburn, 1993, p. 19.
+— (1970), Power and Market , Kansas City, Sheed Andrews
+and McMeel, pp. 10-13.
+— (1977), Strategies for A Libertarian Victory, Rothbard Cau-
+cus,Libertarian Party, 
+— (1978), For a New Liberty: The Libertarian Manifesto , New
+York, Collier Books, pp. 54-69.
+— (1979), «The Myth of Efficiency», en Mario Rizzo (ed.),
+Time, Uncertainty and Disequilibrium , Lexington, D.C.
+Heath, pp. 90-95.
+— (1992), «How and How Not to Desocialize», en Review of
+Austrian Economics , vol. 6, n.º 1, pp. 65-77.
+— (1994), The Case Against the FED , Auburn, Ludwig von
+Mises Institute.
+— (1995a), La ética de la libertad , Madrid Unión Editorial, pp.
+59-103.
+— (1995b), Making Economic Sense , Auburn, Ludwig von
+Mises Institute, pp. 15-56.
+— (2000), «Freedom, Inequality, Primitivism and the Divi-
+sion of Labor», en Murray N. Rothbard, Egalitarianism as
+a Revolt against Nature and other Essays , Auburn, Ludwig
+von Mises Institute.50 MIGUEL ANXO BASTOS BOUBETA— (2002), «Milton Friedman Unraveled», en Journal of Liber-
+tarian Studies , vol. 16, n.º 4, Fall, pp. 37-54.
+RUSTOW , A. (1980), Freedom and Domination: A Historical Critique
+of Civilization, Princeton, Princeton University Press, pp.
+150-175.
+— (2004), Down with Primitivism: A Thorough Critique of Polan-
+yi, en Paul Samuelson (1954), «The Pure Theory of Public
+Expenditure», en Review of Economics and Statistics , vol.
+36, November, pp. 387-89.
+— (1955), «A Diagrammatic Exposition of a Theory of Public
+Expenditure», en Review of Economics and Statistics , vol.
+37, November, pp. 350-356.
+SECHREST , L. (2003), «Private Provision of Public Goods: Theo-
+retical Issues and Some Examples from Maritime His-
+tory», Independent Institute Working Papers.
+SIMON , H.A. (1958), El comportamiento administrativo , Madrid,
+Aguilar.
+STANBURY , W. y T HOMPSON , F. (1995), «Toward a Political Economy
+of Government Waste: First Step, Definitions», en Public
+Administration Review , vol. 55, n.º 5, September/October,
+pp. 418-427.
+TILLY, C. (1985), «War Making and State Making as Organized
+Crime», en Peter Evans, Dietrich Rueschemeyer y Theda
+Skocpol (eds.), Bringing the State Back In, Cambridge,
+Cambridge University Press.
+TORGERSON , D. (1999), «El análisis de políticas públicas y la vida
+pública: ¿La restauración de la phronêsis ?», en James Farr,
+John S. Dryzek y Stephen T. Leonard (eds.), La ciencia
+política en la historia , Madrid, Istmo, pp. 289-324.
+WOLF(Jr.), C. (1995), Mercados o gobiernos. Elegir entre alternati-
+vas imperfectas , Madrid, Instituto de Estudios Fiscales.
+ZERZAN , J. (2001), Futuro primitivo y otros ensayos , Numa, Va-
+lencia.¿PUEDE LA INTERVENCIÓN ESTATAL SER JUSTIFICADA...? 51
