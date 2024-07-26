@@ -3,3 +3,4 @@ llama.cpp
 *.safetensors
 outputs
 _unsloth_sentencepiece_temp
+wandb
