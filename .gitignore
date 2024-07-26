@@ -2,3 +2,4 @@ llama.cpp
 *.gguf
 *.safetensors
 outputs
+_unsloth_sentencepiece_temp
