@@ -127,7 +127,7 @@ if __name__ == "__main__":
 
     # Log final training stats
     wandb.log({
-        "final_loss": trainer_stats.loss,
+        #"final_loss": trainer_stats.loss,
         "total_steps": trainer_stats.global_step,
         "total_time": trainer_stats.total_flos,
     })
