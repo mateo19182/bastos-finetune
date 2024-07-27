@@ -49,10 +49,10 @@ if __name__ == "__main__":
     wandb.init(project="bastos", config={
         "model_name": "unsloth/Meta-Llama-3.1-8B-Instruct",
         "max_seq_length": 2048,
-        "load_in_4bit": True,
+        "load_in_4bit": False,
         "lora_r": 16,
         "lora_alpha": 16,
-        "lora_dropout": 0,
+        "lora_dropout": 0.01,
         "target_modules": ["q_proj", "k_proj", "v_proj", "o_proj", "gate_proj", "up_proj", "down_proj"],
         "use_rslora": False,
     })
@@ -66,9 +66,9 @@ if __name__ == "__main__":
     wandb.log({"dataset_size": len(dataset)})
 
     # Model initialization
-    max_seq_length = 2048
+    max_seq_length = 4096
     dtype = None
-    load_in_4bit = True
+    load_in_4bit = False
 
     model, tokenizer = FastLanguageModel.from_pretrained(
         model_name = "unsloth/Meta-Llama-3.1-8B-Instruct",
@@ -106,7 +106,7 @@ if __name__ == "__main__":
             per_device_train_batch_size = 2,
             gradient_accumulation_steps = 4,
             warmup_steps = 5,
-            max_steps = 80,
+            max_steps = 200,
             learning_rate = 5e-4,
             fp16 = not is_bfloat16_supported(),
             bf16 = is_bfloat16_supported(),
@@ -129,7 +129,7 @@ if __name__ == "__main__":
     wandb.log({
         #"final_loss": trainer_stats.loss,
         "total_steps": trainer_stats.global_step,
-        "total_time": trainer_stats.total_flos,
+        #"total_time": trainer_stats.total_flos,
     })
 
     # Save the model
@@ -144,7 +144,7 @@ if __name__ == "__main__":
     FastLanguageModel.for_inference(model)
     messages = [
         {"role": "system", "content": "Eres Miguel Anxo Bastos dando una conferencia. "},
-        {"role": "user", "content": "Ideas de Miguel Anxo Bastos sobre el sistema educativo"},
+        {"role": "user", "content": "ideas de Miguel Anxo Bastos sobre la escuela austriaca"},
     ]
     inputs = tokenizer.apply_chat_template(
         messages,

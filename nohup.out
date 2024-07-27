@@ -1,0 +1,65 @@
+Unsloth unsuccessfully patched LoraLayer.update_layer. Please file a bug report.
+Luckily, your training run will still work in the meantime!
+wandb: Currently logged in as: m19182 (finentune). Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.17.5
+wandb: Run data is saved locally in /home/mateo/bastos-finetune/wandb/run-20240727_180328-xng0q25k
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run golden-sound-2
+wandb: ⭐️ View project at https://wandb.ai/finentune/bastos
+wandb: 🚀 View run at https://wandb.ai/finentune/bastos/runs/xng0q25k
+🦥 Unsloth: Will patch your computer to enable 2x faster free finetuning.
+Dataset size: 685
+==((====))==  Unsloth: Fast Llama patching release 2024.7
+   \\   /|    GPU: NVIDIA GeForce RTX 3090. Max memory: 23.69 GB. Platform = Linux.
+O^O/ \_/ \    Pytorch: 2.3.0+cu121. CUDA = 8.6. CUDA Toolkit = 12.1.
+\        /    Bfloat16 = TRUE. FA [Xformers = 0.0.26.post1. FA2 = False]
+ "-____-"     Free Apache license: http://github.com/unslothai/unsloth
+Traceback (most recent call last):
+  File "/home/mateo/bastos-finetune/finetune.py", line 73, in <module>
+    model, tokenizer = FastLanguageModel.from_pretrained(
+  File "/home/mateo/miniconda3/envs/unsloth_env/lib/python3.10/site-packages/unsloth/models/loader.py", line 188, in from_pretrained
+    model, tokenizer = dispatch_model.from_pretrained(
+  File "/home/mateo/miniconda3/envs/unsloth_env/lib/python3.10/site-packages/unsloth/models/llama.py", line 1369, in from_pretrained
+    model = AutoModelForCausalLM.from_pretrained(
+  File "/home/mateo/miniconda3/envs/unsloth_env/lib/python3.10/site-packages/transformers/models/auto/auto_factory.py", line 564, in from_pretrained
+    return model_class.from_pretrained(
+  File "/home/mateo/miniconda3/envs/unsloth_env/lib/python3.10/site-packages/transformers/modeling_utils.py", line 3903, in from_pretrained
+    ) = cls._load_pretrained_model(
+  File "/home/mateo/miniconda3/envs/unsloth_env/lib/python3.10/site-packages/transformers/modeling_utils.py", line 4377, in _load_pretrained_model
+    new_error_msgs, offload_index, state_dict_index = _load_state_dict_into_meta_model(
+  File "/home/mateo/miniconda3/envs/unsloth_env/lib/python3.10/site-packages/transformers/modeling_utils.py", line 935, in _load_state_dict_into_meta_model
+    hf_quantizer.create_quantized_param(model, param, param_name, param_device, state_dict, unexpected_keys)
+  File "/home/mateo/miniconda3/envs/unsloth_env/lib/python3.10/site-packages/transformers/quantizers/quantizer_bnb_4bit.py", line 202, in create_quantized_param
+    new_value = bnb.nn.Params4bit.from_prequantized(
+  File "/home/mateo/miniconda3/envs/unsloth_env/lib/python3.10/site-packages/bitsandbytes/nn/modules.py", line 278, in from_prequantized
+    self = torch.Tensor._make_subclass(cls, data.to(device))
+KeyboardInterrupt
+Exception ignored in atexit callback: <function _Manager._atexit_setup.<locals>.<lambda> at 0x7f23202aa8c0>
+Traceback (most recent call last):
+  File "/home/mateo/miniconda3/envs/unsloth_env/lib/python3.10/site-packages/wandb/sdk/wandb_manager.py", line 179, in <lambda>
+    self._atexit_lambda = lambda: self._atexit_teardown()
+  File "/home/mateo/miniconda3/envs/unsloth_env/lib/python3.10/site-packages/wandb/sdk/wandb_manager.py", line 193, in _atexit_teardown
+    self._teardown(self._hooks.exit_code if self._hooks else 0)
+  File "/home/mateo/miniconda3/envs/unsloth_env/lib/python3.10/site-packages/wandb/sdk/wandb_manager.py", line 174, in _teardown
+    return self._service.join()
+  File "/home/mateo/miniconda3/envs/unsloth_env/lib/python3.10/site-packages/wandb/sdk/service/service.py", line 266, in join
+    ret = self._internal_proc.wait()
+  File "/home/mateo/miniconda3/envs/unsloth_env/lib/python3.10/subprocess.py", line 1209, in wait
+    return self._wait(timeout=timeout)
+  File "/home/mateo/miniconda3/envs/unsloth_env/lib/python3.10/subprocess.py", line 1959, in _wait
+    (pid, sts) = self._try_wait(0)
+  File "/home/mateo/miniconda3/envs/unsloth_env/lib/python3.10/subprocess.py", line 1917, in _try_wait
+    (pid, sts) = os.waitpid(self.pid, wait_flags)
+KeyboardInterrupt: 
+wandb: - 0.004 MB of 0.004 MB uploadedwandb: \ 0.004 MB of 0.004 MB uploadedwandb: | 0.004 MB of 0.004 MB uploadedwandb: / 0.004 MB of 0.004 MB uploadedwandb: - 0.008 MB of 0.018 MB uploadedwandb: \ 0.018 MB of 0.018 MB uploadedwandb: 
+wandb: Run history:
+wandb: dataset_size ▁
+wandb: 
+wandb: Run summary:
+wandb: dataset_size 685
+wandb: 
+wandb: 🚀 View run golden-sound-2 at: https://wandb.ai/finentune/bastos/runs/xng0q25k
+wandb: ⭐️ View project at: https://wandb.ai/finentune/bastos
+wandb: Synced 6 W&B file(s), 0 media file(s), 2 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20240727_180328-xng0q25k/logs
+wandb: WARNING The new W&B backend becomes opt-out in version 0.18.0; try it out with `wandb.require("core")`! See https://wandb.me/wandb-core for more information.
