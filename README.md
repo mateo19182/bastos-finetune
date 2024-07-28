@@ -8,3 +8,5 @@ Get model on https://huggingface.co/mateo-19182/bastos
 
 ollama create bastos-model -f Modelfile
 ollama run bastos-model
+
+check logs for example generations
